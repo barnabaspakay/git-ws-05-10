@@ -5,7 +5,7 @@
 1. pwd - print working directory
 
 
-Git 4 ütemű fekvőtámasz
+# Git 4 ütemű fekvőtámasz
 1. git clone  - egy távoli repository letöltése a gépedre -> létrejön lokális repository
 1. git add <file neve> - adott  fileokat hozzáadunk a stageing areahoz (amiket commitolunk)
 1. git commit -m "<message>" - létrehozunk egy commitot
